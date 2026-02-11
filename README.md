@@ -7,11 +7,12 @@
   </picture>
   <br/><br/>
 
+<a href="https://valentinguigon.github.io/">Website</a> &nbsp;&middot;&nbsp;
 <a href="https://scholar.google.com/citations?user=M4O2z3EAAAAJ">Google Scholar</a> &nbsp;&middot;&nbsp;
 <a href="https://orcid.org/0000-0003-0597-8094">ORCID</a> &nbsp;&middot;&nbsp;
-<a href="https://www.linkedin.com/in/valentin-guigon-phd-61024a92">LinkedIn</a> &nbsp;&middot;&nbsp;
-<a href="https://valentinguigon.substack.com/">Substack</a>
+<a href="https://www.linkedin.com/in/valentin-guigon-phd-61024a92">LinkedIn</a>
 <br/><br/>
+<a href="https://valentinguigon.substack.com/">Substack</a>&nbsp;&middot;&nbsp;
 <a href="https://medium.com/@valentin.guigon">Medium</a> &nbsp;&middot;&nbsp;
 <a href="https://x.com/GuigonV">Twitter</a> &nbsp;&middot;&nbsp;
 <a href="https://bsky.app/profile/guigonv.bsky.social">Bluesky</a>
