@@ -52,7 +52,7 @@ I am a postdoctoral researcher in Psychology and Neuroscience at the University 
       <strong>neurodesign-plus</strong> &ensp; <sub><code>PACKAGE</code></sub>
       <br/><br/>
       <sub>Source code for an extended fork of the neurodesign Python package. Primary work: Atharv Umap; Supervision: Valentin Guigon.</sub>
-      <br/><br/>
+      <br/>
       <sub></sub>
       <br/><br/><br/>
       <a href="https://github.com/SLDlab/neurodesign-plus"><sub>Repository</sub></a>
@@ -113,7 +113,7 @@ I am a postdoctoral researcher in Psychology and Neuroscience at the University 
       <sub>fMRI analysis pipeline for Py (Fitlins, Nilearn).</sub>
       <br/><br/>
       <sub>Py fMRI · Processing · WIP</sub>
-      <br/><br/>
+      <br/><br/><br/>
       <a href="https://github.com/ValentinGuigon/Py_fMRI_pipeline_template"><sub>Repository</sub></a>
     </td>
   </tr>
