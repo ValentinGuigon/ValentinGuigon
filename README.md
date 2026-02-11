@@ -55,7 +55,7 @@ I am a postdoctoral researcher in Psychology and Neuroscience at the University 
       <sub>Source code for the neurodesign-plus Python package, an augmented version of neurodesign. neurodesign-plus offers a comprehensive solution to simulate HRF in various fMRI designs. Primary work: Atharv Umap; Supervision: Valentin Guigon.</sub>
       <br/>
       <sub></sub>
-      <br/><br/><br/>
+      <br/><br/>
       <a href="https://github.com/SLDlab/neurodesign-plus"><sub>Repository</sub></a>
     </td>
   </tr>
