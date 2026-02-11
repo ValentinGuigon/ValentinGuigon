@@ -113,7 +113,7 @@ I am a postdoctoral researcher in Psychology and Neuroscience at the University 
       <sub>fMRI analysis pipeline for Py (Fitlins, Nilearn).</sub>
       <br/><br/>
       <sub>Py fMRI · Processing · WIP</sub>
-      <br/><br/><br/>
+      <br/><br/>
       <a href="https://github.com/ValentinGuigon/Py_fMRI_pipeline_template"><sub>Repository</sub></a>
     </td>
   </tr>
