@@ -57,7 +57,7 @@ I am a postdoctoral researcher in Psychology and Neuroscience at the University 
       <sub></sub>
       <br/><br/>
       <a href="https://github.com/SLDlab/neurodesign-plus"><sub>Repository</sub></a>
-      <a href="[https://www.nature.com/articles/s44271-024-00170-w](https://pypi.org/project/neurodesign-plus/)"><sub>Package</sub></a>
+      <a href="https://pypi.org/project/neurodesign-plus/"><sub>Package</sub></a>
     </td>
   </tr>
 
