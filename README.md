@@ -25,7 +25,10 @@
 
 ## About
 
-I am a postdoctoral researcher in Psychology and Neuroscience at the University of Maryland, working in Caroline Charpentier’s Social Learning and Decisions Lab ([SLD Lab](https://sldlab.umd.edu/)). I am also an affiliated member of the Artificial Intelligence Interdisciplinary Institute at Maryland ([AIM](https://aim.umd.edu/)) and an affiliate researcher of the Neuroscience and Cognitive Science ([NACS](https://nacs.umd.edu/)) program.
+I am a postdoctoral researcher in Psychology and Neuroscience at the University of Maryland, working in Caroline Charpentier’s Social Learning and Decisions Lab ([SLD Lab](https://sldlab.umd.edu/)). I am also an affiliated member of the Artificial Intelligence Interdisciplinary Institute at Maryland ([AIM](https://aim.umd.edu/)), an affiliate researcher of the Neuroscience and Cognitive Science ([NACS](https://nacs.umd.edu/)) program, and an elected Full Member of Sigma Xi, The Scientific Research Honor Society.
+
+My work sits at the intersection of computational neuroscience, behavioral economics, and NeuroAI. I use behavioral experiments, computational modeling, and neuroimaging to study social learning, trust, belief updating, confidence calibration, and decision-making under uncertainty. Alongside empirical research, I develop and curate scientific software, reproducible workflows, and analysis templates for neuroscience and related computational research.
+
 
 <br/>
 
