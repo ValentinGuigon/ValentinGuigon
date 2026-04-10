@@ -92,6 +92,16 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <a href="https://github.com/ValentinGuigon/ValentinGuigon.github.io"><sub>Repository</sub></a>
     </td>
+    <td valign="top" width="50%">
+      <strong>March Madness 2026</strong> &ensp; <sub><code>EXPERIMENT</code></sub>
+      <br/><br/>
+      <sub>March Madness 2026 forecast repo built as a tightly supervised AI-assisted workflow for bracket generation, live tournament tracking, and public analytical reporting..</sub>
+      <br/><br/>
+      <sub>Forecasting · NCAA · AI Agents</sub>
+      <br/><br/>
+      <a href="https://github.com/ValentinGuigon/receivingNews_replication_package"><sub>Repository</sub></a> &ensp;
+      <a href="https://www.nature.com/articles/s44271-024-00170-w"><sub>Paper</sub></a>
+    </td>
   </tr>
 </table>
 
