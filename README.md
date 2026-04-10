@@ -89,6 +89,8 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <strong>Personal website</strong> &ensp; <sub><code>TOOL</code></sub>
       <br/><br/>
       <sub>Personal website. Built with a Jekyll::alshedivat base, tailored for personal uses.</sub>
+      <br/>
+      <sub></sub>
       <br/><br/>
       <a href="https://github.com/ValentinGuigon/ValentinGuigon.github.io"><sub>Repository</sub></a>
     </td>
