@@ -108,6 +108,35 @@ My work sits at the intersection of computational neuroscience, behavioral econo
 
 <br/>
 
+### AI tools repositories
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>SUPLEX-agentic-workflow</strong> &ensp; <sub><code>TOOL</code></sub>
+      <br/><br/>
+      <sub>SUPLEX (supervised pipeline with layered execution) is a lightweight governance layer for AI-assisted repository work. It installs a supervision-execution split, bounded-task discipline, handoff structure, and provenance tracking into any existing repository without modifying host architecture.</sub>
+      <br/><br/>
+      <sub>Agentic workflows · AI governance · Reproducibility</sub>
+      <br/><br/>
+      <a href="https://github.com/ValentinGuigon/SUPLEX-agentic-workflow"><sub>Repository</sub></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>AI-research-feedback</strong> &ensp; <sub><code>TOOL</code></sub>
+      <br/><br/>
+      <sub>A collection of Claude Code / Codex skills for academic research review, forked from Claes Bäckman, adapted for psyc/neuro. Includes parallel-agent commands for full referee-style paper review, quick pre-submission checks, paper-code reproducibility audits, pre-analysis plan review, and grant proposal review.</sub>
+      <br/><br/>
+      <sub>Claude Code · Paper review</sub>
+      <br/><br/>
+      <a href="https://github.com/ValentinGuigon/AI-research-feedback"><sub>Repository</sub></a>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<br/>
+
 ### Template repositories
 
 <table>
