@@ -157,7 +157,7 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <sub>Py fMRI · Processing · WIP</sub>
       <br/><br/>
-      <a href="https://github.com/ValentinGuigon/Py_fMRI_pipeline_template"><sub>Repository</sub></a>
+      <a href="https://github.com/SLDlab/SLB-Py_fMRI_pipeline"><sub>Repository</sub></a>
     </td>
   </tr>
 
