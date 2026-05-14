@@ -119,7 +119,8 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <sub>Agentic workflows · AI governance · Reproducibility</sub>
       <br/><br/>
-      <a href="https://github.com/ValentinGuigon/SUPLEX-agentic-workflow"><sub>Repository</sub></a>
+      <a href="https://github.com/ValentinGuigon/SUPLEX-agentic-workflow"><sub>Repository</sub></a> &ensp;
+      <a href="https://valentinguigon.substack.com/p/how-to-supervise-llms-in-complex"><sub>Substack post</sub></a>
     </td>
     <td valign="top" width="50%">
       <strong>AI-research-feedback</strong> &ensp; <sub><code>TOOL</code></sub>
