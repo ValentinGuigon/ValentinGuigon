@@ -60,7 +60,8 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <sub></sub>
       <br/><br/>
       <a href="https://github.com/SLDlab/neurodesign-plus"><sub>Repository</sub></a> &ensp;
-      <a href="https://pypi.org/project/neurodesign-plus/"><sub>Package</sub></a>
+      <a href="https://pypi.org/project/neurodesign-plus/"><sub>Pypi package</sub></a> &ensp;
+      <a href="https://neurodesign-plus.readthedocs.io/en/latest/"><sub>Read the docs</sub></a>
     </td>
   </tr>
 
