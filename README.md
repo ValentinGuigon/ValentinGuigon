@@ -56,8 +56,8 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <strong>neurodesign-plus</strong> &ensp; <sub><code>PACKAGE</code></sub>
       <br/><br/>
       <sub>Source code for the neurodesign-plus Python package, an augmented version of neurodesign. neurodesign-plus offers a comprehensive solution to simulate HRF in various fMRI designs. Primary work: Atharv Umap; Supervision: Valentin Guigon.</sub>
-      <br/>
       <sub></sub>
+      <sub>Neuroimaging · fMRI experimental design · Multi-objective optimization</sub>
       <br/><br/>
       <a href="https://github.com/SLDlab/neurodesign-plus"><sub>Repository</sub></a> &ensp;
       <a href="https://pypi.org/project/neurodesign-plus/"><sub>Pypi package</sub></a> &ensp;
@@ -72,12 +72,15 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <sub>Cookiecutter template for neuroscience / comp neuro research projects. Compatible with python, R and MATLAB.</sub>
       <br/><br/>
+      <sub>Reproducibility · Cookiecutter template · Repo initialization</sub>
+      <br/><br/>
       <a href="https://github.com/ValentinGuigon/cookiecutter-neuro-research-project"><sub>Repository</sub></a>
     </td>
     <td valign="top" width="50%">
+      <br/>
       <strong>dynamics-rsg</strong> &ensp; <sub><code>RESEARCH</code></sub>
       <br/><br/>
-      <sub>Source code for Neuromatch NeuroAI project dynamics-rsg. We compared biologically plausible learning rules (PC, RFLO) and BPTT in leaky-tahn RNNs trained on the Ready-Set-Go task, and evaluated them against macaque behavior and frontal-cortex activity (DANDI 000130).</sub>
+      <sub>Source code for Neuromatch NeuroAI project dynamics-rsg. We compared biologically plausible learning rules (PC, RFLO) and BPTT in leaky-tahn RNNs trained on the Ready-Set-Go task, and evaluated them against macaque behavior and MPFC activity (DANDI 000130).</sub>
       <br/><br/>
       <sub>NeuroAI · Recurrent networks · Neural dynamics · Interval timing</sub>
       <br/><br/>
