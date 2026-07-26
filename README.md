@@ -72,6 +72,7 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <sub>Cookiecutter template for neuroscience / comp neuro research projects. Compatible with python, R and MATLAB.</sub>
       <br/><br/>
+      <br/><br/>
       <sub>Reproducibility · Cookiecutter template · Repo initialization</sub>
       <br/><br/>
       <a href="https://github.com/ValentinGuigon/cookiecutter-neuro-research-project"><sub>Repository</sub></a>
@@ -182,7 +183,7 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <sub>R, BRMS & JAGS templates + boilerplates for MLM/Bayes-MLM, Power simulations, and Mediation analyses.</sub>
       <br/><br/>
-      <sub><sub>R · Bayesian hypothesis testing · Mixed NHST</sub></sub>
+      <sub>R · Bayesian hypothesis testing · Mixed NHST</sub>
       <br/><br/>
       <a href="https://github.com/ValentinGuigon/Mixed_LM_templates"><sub>Repository</sub></a>
     </td>
@@ -192,7 +193,7 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <br/><br/>
       <sub>Templates & demos for NLP (pipelines, fine tuning, tokenizers, inference). Primarily thought for running on Colab, built with HF.</sub>
       <br/><br/>
-      <sub><sub>HuggingFace · Learning</sub></sub>
+      <sub>HuggingFace · NLP · training</sub>
       <br/><br/>
       <a href="https://github.com/ValentinGuigon/NLP_templates"><sub>Repository</sub></a>
     </td>
