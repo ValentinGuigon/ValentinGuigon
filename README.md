@@ -75,6 +75,15 @@ My work sits at the intersection of computational neuroscience, behavioral econo
       <a href="https://github.com/ValentinGuigon/cookiecutter-neuro-research-project"><sub>Repository</sub></a>
     </td>
     <td valign="top" width="50%">
+      <strong>dynamics-rsg</strong> &ensp; <sub><code>RESEARCH</code></sub>
+      <br/><br/>
+      <sub>Source code for Neuromatch NeuroAI project dynamics-rsg. We compared biologically plausible learning rules (PC, RFLO) and BPTT in leaky-tahn RNNs trained on the Ready-Set-Go task, and evaluated them against macaque behavior and frontal-cortex activity (DANDI 000130).</sub>
+      <br/><br/>
+      <sub>NeuroAI · Recurrent networks · Neural dynamics · Interval timing</sub>
+      <br/><br/>
+      <a href="https://github.com/fionaliu0105/dynamics-rsg"><sub>Repository</sub></a>
+</td>
+
   </tr>
 </table>
 
@@ -176,7 +185,7 @@ My work sits at the intersection of computational neuroscience, behavioral econo
     </td>
     <td valign="top" width="50%">
       <br/>
-      <strong>sentiment_analysis_templates</strong> &ensp; <sub><code>TEMPLATES</code></sub>
+      <strong>NLP_templates</strong> &ensp; <sub><code>TEMPLATES</code></sub>
       <br/><br/>
       <sub>Templates & demos for NLP (pipelines, fine tuning, tokenizers, inference). Primarily thought for running on Colab, built with HF.</sub>
       <br/><br/>
